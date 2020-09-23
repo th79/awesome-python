@@ -1,5 +1,7 @@
 # Contributing
 
+Bitte sende eine Mail an: lieblingsfirma....
+
 Your contributions are always welcome!
 
 ## Guideline
